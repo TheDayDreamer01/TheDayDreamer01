@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="padding:0 4rem">
 
 <p style="font-size:2.5rem">📱🤖💻</p>
 
