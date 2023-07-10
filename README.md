@@ -1,13 +1,10 @@
-<div align="center" style="padding:0 4rem">
+<div align="center" style="width:90vw">
 
 <p align="center" style="font-size:2.5rem">📱🤖💻</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=30&lines=Hello%20World!%2C+I'm+Lirae!;I'm+from+the+Philippines.;21-year-old+Full+Stack+Developer.)](https://git.io/typing-svg)
-
-
 ![LofiProgrammer](/assets/images/cover-image-crop.jpg)
 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=30&lines=Hello%20World!%2C+I'm+Lirae!;I'm+from+the+Philippines.;21-year-old+Full+Stack+Developer.)](https://git.io/typing-svg)
 
 I'm an enthusiastic Full Stack Developer with a passion for web, mobile, and desktop app development. I love exploring new frameworks and creating innovative applications. It's a never-ending adventure, from crafting user-friendly web apps to building handy mobile apps and reliable desktop solutions. I'm always hungry to learn, and I thrive on the excitement of bringing ideas to life. Let's embark on this exciting journey of limitless possibilities together!
 
