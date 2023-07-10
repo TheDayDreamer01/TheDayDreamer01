@@ -1,10 +1,11 @@
 <div align="center" style="padding:0 4rem">
 
-<p style="font-size:2.5rem">📱🤖💻</p>
+<p align="center" style="font-size:2.5rem">📱🤖💻</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=30&lines=Hello%20World!%2C+I'm+Lirae!;I'm+from+the+Philippines.;21-year-old+Full+Stack+Developer.)](https://git.io/typing-svg)
 
-<img src="./assets/images/cover-image.jpg" style="height:14rem; width:100vw; object-fit:cover;">
+
+![LofiProgrammer](/assets/images/cover-image-crop.jpg)
 
 <br>
 
