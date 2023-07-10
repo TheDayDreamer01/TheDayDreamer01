@@ -24,7 +24,9 @@ I'm an enthusiastic Full Stack Developer with a passion for web, mobile, and des
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheDayDreamer01&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDayDreamer01&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=TheDayDreamer01&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDayDreamer01&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
 
 </div>
