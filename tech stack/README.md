@@ -14,12 +14,16 @@ The beauty of `MERN` lies in its seamless integration with React, enabling you t
 
 And let's not forget about React itself, known for its flexibility and top-notch performance when it comes to crafting dynamic and interactive user interfaces. `MERN` truly packs a punch when it comes to building modern, feature-rich applications.
 
+<div align="center">
+
 | Development Tools    | |
 |----------------------|-|
 | Programming Language | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) |
 | Frontend Frameworks  | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) |
 | Backend Frameworks   | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) |
 | Database             | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) |
+
+</div>
 
 > **Note:** During the development process, I utilized various [documentation tools](#documentation-tools) to enhance productivity and streamline workflows.  These tools played a crucial role in tasks such as documentation, wireframing, and more.
 
@@ -29,6 +33,8 @@ And let's not forget about React itself, known for its flexibility and top-notch
 
 Python is one of the fastest-growing languages known for its ease of use, making it a popular choice for beginners in college. It boasts modern and powerful features, gaining popularity for its extensive usage in machine learning and data science. Python also shines in web application development, with the Django framework being a top choice.
 
+<div align="center">
+
 | Development Tools    | |
 |----------------------|-| 
 | Programming Language | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) | 
@@ -36,11 +42,15 @@ Python is one of the fastest-growing languages known for its ease of use, making
 | Backend Frameworks  | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray) |
 | Database            | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) |
 
+</div>
+
 > **Note:** During the development process, I utilized various [documentation tools](#documentation-tools) to enhance productivity and streamline workflows.  These tools played a crucial role in tasks such as documentation, wireframing, and more.
 
 ## [ASP.NET Stack](/tech%20stack/csharp/README.md)
 
 In recent times, there has been a surge in the popularity of Microsoft's `.NET` Core. These days, the latest `.NET` applications are super lightweight and have the flexibility to operate on both Windows and Linux platforms. Microsoft's open-source approach has truly captured the interest of developers worldwide. And here's the kicker: with the introduction of `.NET` 5, you won't have to agonize over the `.NET` Framework versus `.NET` Core dilemma as much. It's all coming together seamlessly now!
+
+<div align="center">
 
 | Development Tools    | |
 |----------------------|-|
@@ -49,11 +59,15 @@ In recent times, there has been a surge in the popularity of Microsoft's `.NET` 
 | Backend Frameworks   | ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) |
 | Database             | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) |
 
+</div>
+
 > **Note:** During the development process, I utilized various [documentation tools](#documentation-tools) to enhance productivity and streamline workflows.  These tools played a crucial role in tasks such as documentation, wireframing, and more.
 
 ## [Flutter-Flask Stack](/tech%20stack/dart/README.md)
 
 The combination of `Flutter` and `Flask` brings together the best of both worlds in app development. `Flutter` offers cross-platform capabilities for building captivating mobile applications, while `Flask` provides a lightweight and flexible framework for creating efficient backend APIs. This powerful pairing enables developers to deliver impressive user experiences and high-performance mobile apps with robust server-side functionality. With `Flutter` and `Flask` working hand in hand, the possibilities for innovative and seamless app development are limitless.
+
+<div align="center">
 
 | Development Tools    | |
 |----------------------|-|
@@ -62,9 +76,13 @@ The combination of `Flutter` and `Flask` brings together the best of both worlds
 | Backend Framework    | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) |
 | Database             | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) |
 
+</div>
+
 > **Note:** During the development process, I utilized various [documentation tools](#documentation-tools) to enhance productivity and streamline workflows.  These tools played a crucial role in tasks such as documentation, wireframing, and more.
 
 ## Programming Langauges
+
+<div align="center">
 
 | Programming Languages | |
 |-----------------------|-|
@@ -77,9 +95,13 @@ The combination of `Flutter` and `Flask` brings together the best of both worlds
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) | |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | |
 
+</div>
+
 ## Documentation Tools
 
 During the development process, I utilized various development tools to enhance productivity and streamline workflows. These tools played a crucial role in tasks such as documentation, wireframing, and more. By leveraging the appropriate tools, I ensured efficient collaboration, improved project management, and maintained high-quality standards throughout the development lifecycle. These development tools proved to be invaluable in optimizing productivity and achieving successful outcomes in my projects.
+
+<div align="center">
 
 | Development Tools    | |
 |----------------------|-|
@@ -88,6 +110,5 @@ During the development process, I utilized various development tools to enhance 
 | Backend Tools        | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) |
 | Embedded Systems     | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi) |
 
-
-
+</div>
 
