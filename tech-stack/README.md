@@ -6,7 +6,7 @@ In my work realm, I rock the `MERN` (MongoDB, Express.js, React, Node.js) stack 
 
 But you know what they say, all work and no play makes for a dull developer. So, for fun and experimentation, I've got a sweet `Flutter-Flask` combo going on. Flutter's cross-platform magic combined with Flask's lightweight and flexible nature creates the perfect playground for me to create innovative and quirky projects.
 
-## [MERN Stack](/tech%20stack/node/README.md) 
+## [MERN Stack](/tech-stack/node/README.md) 
 
 `MERN` is pretty much like MEAN, with one main difference: instead of Angular.js, you swap it out with React.
 
@@ -29,7 +29,7 @@ And let's not forget about React itself, known for its flexibility and top-notch
 
 ---
 
-## [Python-Django Stack](/tech%20stack/python/README.md)
+## [Python-Django Stack](/tech-stack/python/README.md)
 
 Python is one of the fastest-growing languages known for its ease of use, making it a popular choice for beginners in college. It boasts modern and powerful features, gaining popularity for its extensive usage in machine learning and data science. Python also shines in web application development, with the Django framework being a top choice.
 
@@ -46,7 +46,7 @@ Python is one of the fastest-growing languages known for its ease of use, making
 
 > **Note:** During the development process, I utilized various [documentation tools](#documentation-tools) to enhance productivity and streamline workflows.  These tools played a crucial role in tasks such as documentation, wireframing, and more.
 
-## [ASP.NET Stack](/tech%20stack/csharp/README.md)
+## [ASP.NET Stack](/tech-stack/csharp/README.md)
 
 In recent times, there has been a surge in the popularity of Microsoft's `.NET` Core. These days, the latest `.NET` applications are super lightweight and have the flexibility to operate on both Windows and Linux platforms. Microsoft's open-source approach has truly captured the interest of developers worldwide. And here's the kicker: with the introduction of `.NET` 5, you won't have to agonize over the `.NET` Framework versus `.NET` Core dilemma as much. It's all coming together seamlessly now!
 
@@ -63,7 +63,7 @@ In recent times, there has been a surge in the popularity of Microsoft's `.NET` 
 
 > **Note:** During the development process, I utilized various [documentation tools](#documentation-tools) to enhance productivity and streamline workflows.  These tools played a crucial role in tasks such as documentation, wireframing, and more.
 
-## [Flutter-Flask Stack](/tech%20stack/dart/README.md)
+## [Flutter-Flask Stack](/tech-stack/dart/README.md)
 
 The combination of `Flutter` and `Flask` brings together the best of both worlds in app development. `Flutter` offers cross-platform capabilities for building captivating mobile applications, while `Flask` provides a lightweight and flexible framework for creating efficient backend APIs. This powerful pairing enables developers to deliver impressive user experiences and high-performance mobile apps with robust server-side functionality. With `Flutter` and `Flask` working hand in hand, the possibilities for innovative and seamless app development are limitless.
 
