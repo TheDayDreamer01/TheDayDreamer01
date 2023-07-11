@@ -82,18 +82,21 @@ The combination of `Flutter` and `Flask` brings together the best of both worlds
 
 ## Programming Langauges
 
+Over the years, my journey has been filled with countless learning experiences and the development of numerous applications. However, none of this would have been possible without diving into various programming languages and utilizing essential frontend tools. These development tools have played a pivotal role in shaping my skills and enabling me to reach where I am today. I am truly grateful for the invaluable support they have provided throughout my journey.
+
 <div align="center">
 
-| Programming Languages | |
+| Programming Languages | Description |
 |-----------------------|-|
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) | |
-| ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) | |
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) | |
-| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | |
-| ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) | |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) | |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) | |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | |
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) | A powerful and low-level programming language |
+| ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) | A modern and versatile programming language for .NET development |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) | A robust language for system and application development |
+| ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) | A client-optimized language for building native mobile and web apps |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | A high-level, versatile language with a focus on readability |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) | The standard markup language for creating web pages |
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | A styling language that enhances the appearance of HTML elements |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) | The language of the web, used for interactive and dynamic web pages |
+
 
 </div>
 
